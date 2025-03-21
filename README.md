@@ -91,6 +91,12 @@ Always learning, building, and aiming for roles where I can **grow, contribute, 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdawood1&theme=dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdawood1&layout=compact&theme=dark&count_private=true&langs_count=8" height="180px"/>
+</p>
+
+---
+
+### **LeetCode Stats**  
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/JDawood?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats Card" />
 </p>
 
