@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jdawood1">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="80%" alt="GitHub Stats Widget" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="90%" alt="GitHub Stats Widget" />
   </a>
 </p>
 
@@ -14,6 +14,12 @@
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/JDawood/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+<p align="center">
   Let's connect and chat about tech, projects, or opportunities!
 </p>
 
@@ -23,7 +29,11 @@
 
 #### **About Me**
 
-I’m a Software Engineering student at ASU with a focus on building scalable applications, automating workflows, and leveraging cloud technologies. I’m particularly interested in backend development and DevOps, with an emphasis on cloud scalability, performance optimization, and system automation. Passionate about solving real-world problems through clean, efficient code, I stay engaged with the latest tools, frameworks, and best practices to continuously sharpen my skills.
+I'm a **Software Engineering student at ASU**, focused on building **scalable backend systems**, writing **efficient, production-ready code**, and developing applications that solve real problems. I enjoy working across the stack, but my strengths lie in **backend development**, **APIs**, **databases**, and **system performance optimization**.
+
+I also leverage **DevOps tools and cloud platforms** (like AWS and Docker) to **automate workflows**, streamline deployments, and ensure systems run at scale — but my core drive is **writing clean code** that powers **real products** and **drives impact**.
+
+Always learning, building, and aiming for roles where I can **grow, contribute, and scale**.
 
 ---
 
@@ -79,9 +89,9 @@ I’m a Software Engineering student at ASU with a focus on building scalable ap
 
 ### **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdawood1&layout=compact&theme=tokyonight&count_private=true&langs_count=8" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdawood1&theme=tokyonight" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdawood1&theme=tokyonight" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdawood1&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdawood1&layout=compact&theme=dark&count_private=true&langs_count=8" height="180px"/>
+  <img src="https://leetcard.jacoblin.cool/JDawood?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats Card" />
 </p>
 
 ---
