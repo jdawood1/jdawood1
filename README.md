@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jdawood1">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="90%" alt="GitHub Stats Widget" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="100%" alt="GitHub Stats Widget" />
   </a>
 </p>
 
@@ -29,11 +29,9 @@
 
 #### **About Me**
 
-I'm a **Software Engineering student at ASU**, focused on building **scalable backend systems**, writing **efficient, production-ready code**, and developing applications that solve real problems. I enjoy working across the stack, but my strengths lie in **backend development**, **APIs**, **databases**, and **system performance optimization**.
+I'm a Software Engineering student at Arizona State University, currently focused on backend development and system design. I enjoy working with APIs, databases, and scalable architecture, and I’ve been building projects that integrate cloud platforms, automation tools, and deployment workflows.
 
-I also leverage **DevOps tools and cloud platforms** (like AWS and Docker) to **automate workflows**, streamline deployments, and ensure systems run at scale — but my core drive is **writing clean code** that powers **real products** and **drives impact**.
-
-Always learning, building, and aiming for roles where I can **grow, contribute, and scale**.
+Most of my work involves Python, JavaScript, Java, and C/C++, along with tools like Docker, AWS, and PostgreSQL. I'm always learning and exploring new technologies, with a focus on writing clean, efficient, and reliable code that solves real-world problems.
 
 ---
 
