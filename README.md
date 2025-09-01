@@ -99,7 +99,7 @@ Currently building projects in automation, CI/CD, and game engine workflows.
 - Built with **Python, Pandas, Matplotlib**; tested with `pytest`, CI/CD with GitHub Actions.  
 - Repo: [github.com/jdawood1/telemetry-dashboard](https://github.com/jdawood1/telemetry-dashboard)  
 
-## Level Editor Tool  
+### Level Editor Tool  
 - Developer tool for defining 2D levels in JSON with schema validation.  
 - CLI commands for creating levels, adding/removing objects, exporting, and stats.  
 - Includes telemetry logging + automated tests.  
