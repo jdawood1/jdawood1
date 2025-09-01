@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jdawood1">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="100%" alt="GitHub Stats Widget" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="95%" alt="GitHub Stats Widget" />
   </a>
 </p>
 
@@ -14,36 +14,24 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/JDawood/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-
-<p align="center">
   Let's connect and chat about tech, projects, or opportunities!
 </p>
 
----
+<img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?w=1600&h=300&fit=crop" width="100%" /> 
 
-<img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?w=1600&h=400&fit=crop" width="100%" /> 
+## 👋 About Me  
+Software Engineering student at Arizona State University.  
+Focused on backend systems, developer tools, and scalable architecture.  
+Experienced with Python, C/C++, Java, and cloud platforms.  
+Currently building projects in automation, CI/CD, and game engine workflows.  
 
-#### **About Me**
+**Core Stack:**  
+`Python` · `C++` · `Java` · `React` · `Flask` · `PostgreSQL` · `Docker` · `AWS` · `GitHub Actions`
 
-I'm a Software Engineering student at Arizona State University, currently focused on backend development and system design. I enjoy working with APIs, databases, and scalable architecture, and I’ve been building projects that integrate cloud platforms, automation tools, and deployment workflows.
+<details>
+<summary>See Full Toolbox</summary>
 
-Most of my work involves Python, JavaScript, Java, and C/C++, along with tools like Docker, AWS, and PostgreSQL. I'm always learning and exploring new technologies, with a focus on writing clean, efficient, and reliable code that solves real-world problems.
-
----
-
-<!-- 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,react,flask,aws,postgres,docker,github,mysql,mongodb,nodejs,html,bash,vscode,jetbrains,typescript" />
-  </a>
-</p>
--->
-
-### **Skills & Technologies**
+<br/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
@@ -89,24 +77,47 @@ Most of my work involves Python, JavaScript, Java, and C/C++, along with tools l
   <img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
----
+</details>
 
-### **GitHub Stats**  
+## 🚀 Currently Building
+
+- [Telemetry Dashboard →](https://github.com/jdawood1/telemetry-dashboard) — Python CLI to ingest, transform, and visualize gameplay telemetry.  
+- [Level Editor Tool →](https://github.com/jdawood1/level-editor-tool) — JSON-driven CLI for defining 2D levels with schema validation.  
+- [Build & Test Pipeline Simulator →](https://github.com/jdawood1/build-test-pipeline-sim) — YAML-driven dev pipeline simulator with telemetry logs.  
+
+
+<details>
+<summary>See details</summary>
+
+<br/>
+
+### Telemetry Dashboard  
+- CLI pipeline (`ingest → transform → report`) for analyzing gameplay data.  
+- Generates feature usage charts, DAU/MAU metrics, and latency stats (p50/p95).  
+- Built with **Python, Pandas, Matplotlib**; tested with `pytest`, CI/CD with GitHub Actions.  
+- Repo: [github.com/jdawood1/telemetry-dashboard](https://github.com/jdawood1/telemetry-dashboard)  
+
+## Level Editor Tool  
+- Developer tool for defining 2D levels in JSON with schema validation.  
+- CLI commands for creating levels, adding/removing objects, exporting, and stats.  
+- Includes telemetry logging + automated tests.  
+- Repo: [github.com/jdawood1/level-editor-tool](https://github.com/jdawood1/level-editor-tool)  
+
+### Build & Test Pipeline Simulator  
+- CLI simulator that mimics a dev pipeline (build → test → package).  
+- YAML configs define modules & tests; outputs logs and telemetry.  
+- Exports artifacts + metrics to JSON/CSV; CI pipeline runs against itself.  
+- Repo: [github.com/jdawood1/build-test-pipeline-sim](https://github.com/jdawood1/build-test-pipeline-sim)  
+
+</details>
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdawood1&theme=dark" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdawood1&layout=compact&theme=dark&count_private=true&langs_count=8" height="180px"/>
 </p>
 
----
-
-### **LeetCode Stats**  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/JDawood?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats Card" />
-</p>
-
----
-
 <div align="center">
-  <i>"The only limit is the one you set. Break it."</i>
+  <i>"Limitations are just bugs waiting to be fixed."</i>
 </div>
 
