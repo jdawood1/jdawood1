@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="#nolink">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=jdawood1&data=followers,repositories,stars,commits&theme=dark" width="95%" alt="GitHub Stats Widget" />
   </a>
 </p>
@@ -17,7 +17,7 @@
   Let's connect and chat about tech, projects, or opportunities!
 </p>
 
-<a href="#">
+<a href="#nolink">
   <img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?w=1600&h=300&fit=crop" width="100%" alt="Banner" />
 </a>
 
@@ -115,10 +115,10 @@ Currently building projects in automation, CI/CD, and game engine workflows.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="#">
+  <a href="#nolink">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdawood1&theme=dark" height="180px" />
   </a>
-  <a href="#">
+  <a href="#nolink">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdawood1&layout=compact&theme=dark&count_private=true&langs_count=8" height="180px" />
   </a>
 </p>
