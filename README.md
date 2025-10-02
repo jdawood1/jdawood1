@@ -81,7 +81,7 @@ Currently building projects in automation, CI/CD, and game engine workflows.
 
 </details>
 
-## 🚀 Currently Building
+## 🚀 Projects
 
 - [Telemetry Dashboard →](https://github.com/jdawood1/telemetry-dashboard) — Python CLI to ingest, transform, and visualize gameplay telemetry.  
 - [Level Editor Tool →](https://github.com/jdawood1/level-editor-tool) — JSON-driven CLI for defining 2D levels with schema validation.  
