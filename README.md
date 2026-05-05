@@ -142,10 +142,21 @@ Production-style LLM chatbot platform with a **TypeScript/Node.js backend**, **A
 
 ## Supporting Projects
 
-Smaller projects built to practice backend tooling, automation, testing, telemetry, and CLI workflows.
+Supporting projects focused on backend development, full-stack design, automation, testing, telemetry, and CLI workflows.
 
 <table>
 <tr>
+<td width="33%">
+
+### [SunDevil Connect](https://github.com/jdawood1/sundevil-connect)
+
+Full-stack student organization and event management platform with role-based workflows for students, organization leaders, and administrators.
+
+**Tech:** Java, Spring Boot, React, TypeScript, PostgreSQL, Docker, Flyway, JUnit, Vitest
+
+**Highlights:** Spring Boot API, React frontend, PostgreSQL persistence, Flyway migrations, Docker Compose setup, backend service tests, and frontend component/page tests.
+
+</td>
 <td width="33%">
 
 ### [Telemetry Dashboard](https://github.com/jdawood1/telemetry-dashboard)
@@ -153,6 +164,8 @@ Smaller projects built to practice backend tooling, automation, testing, telemet
 Python CLI pipeline for ingesting, transforming, and visualizing gameplay telemetry.
 
 **Tech:** Python, Pandas, Matplotlib, Pytest, GitHub Actions
+
+**Highlights:** CLI data pipeline, usage charts, DAU/MAU metrics, latency stats, automated tests, and CI checks.
 
 </td>
 <td width="33%">
@@ -163,14 +176,7 @@ YAML-driven simulator for build, test, package, artifacts, and telemetry workflo
 
 **Tech:** Python, YAML, Pytest, GitHub Actions
 
-</td>
-<td width="33%">
-
-### [Level Editor Tool](https://github.com/jdawood1/level-editor-tool)
-
-JSON-driven CLI for defining 2D levels with schema validation and telemetry logging.
-
-**Tech:** Python, JSON Schema, Pytest
+**Highlights:** Simulated build/test/package workflow, JSON/CSV artifact exports, telemetry logs, and CI validation.
 
 </td>
 </tr>
